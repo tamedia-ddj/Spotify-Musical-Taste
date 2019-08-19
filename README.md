@@ -24,13 +24,13 @@ Source: [Gage Skidmore](https://www.flickr.com/photos/gageskidmore/32758233090)>
 
 
 ## Introduction
-What is the musical taste of the different generations living in Switzerland? To answer this question, the Tamedia Datajournalism Team looked at data from Spotify and built the (Musical-Taste Analysis Tool available here)[https://www.tagesanzeiger.ch/].  
+What is the musical taste of the different generations living in Switzerland? To answer this question, the Tamedia Datajournalism Team looked at data from Spotify and built the [Musical-Taste Analysis Tool available here](https://www.tagesanzeiger.ch/).  
 
 As a reminder we define the generations as follows:  
-*Generation Z: born 1994 or later  
-*Generation Y: born 1981-1994  
-*Generation X: born 1965-1980  
-*Generation Babyboomer: born 1946-1964  
+- Generation Z: born 1994 or later  
+- Generation Y: born 1981-1994  
+- Generation X: born 1965-1980  
+- Generation Babyboomer: born 1946-1964  
 
 We asked Spotify to give us the 100 most often played songs from these generations. These lists are shared here in the "Data_Input" folder. The musical features of these songs were then analysed visualized.
 
@@ -46,9 +46,9 @@ We use the spotify API for two things:
 - Getting musical features of songs
 - Getting the Top100 tracks of users
 
-The authorization process is bit tricky. First you need a Spotify account. Then you need to upgrade this account to a developer account and you need to create a "Spotify App" in this account. From this App you need the Client-ID and the Client-Secret-ID. For help with this check the documentation on (spotify.com)[https://developer.spotify.com/documentation/general/guides/authorization-guide/] and (Spotipy)[https://spotipy.readthedocs.io/en/latest/#authorized-requests]  
+The authorization process is bit tricky. First you need a Spotify account. Then you need to upgrade this account to a developer account and you need to create a "Spotify App" in this account. From this App you need the Client-ID and the Client-Secret-ID. For help with this check the documentation on [spotify.com](https://developer.spotify.com/documentation/general/guides/authorization-guide/) and [Spotipy](https://spotipy.readthedocs.io/en/latest/#authorized-requests)  
 
-For General Documentation refer to the (Spotify API-Documentation)[https://developer.spotify.com/documentation/web-api/]
+For General Documentation refer to the [Spotify API-Documentation](https://developer.spotify.com/documentation/web-api/)
 
 **Spotipy**
 To facilitate working with the Spotify API, the package "Spotipy" was used. Documentation can be found here: https://spotipy.readthedocs.io/
@@ -58,7 +58,7 @@ To facilitate working with the Spotify API, the package "Spotipy" was used. Docu
 
 ### gen_.csv
 
-Top100 Tracks received from Spotify by generation
+Top100 Tracks received from Spotify by generation.
 
 Variable | Description
 --- | --- 
@@ -69,8 +69,8 @@ Variable | Description
 
 ## Output Files
 
-*all_gen_artists_count.csv
-*all_gen_average_values.csv
+- all_gen_artists_count.csv
+- all_gen_average_values.csv
 
 ## License
 
