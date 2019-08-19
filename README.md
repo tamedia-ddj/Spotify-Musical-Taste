@@ -1,6 +1,6 @@
 # Spotify-Musical-Taste
 
-### Untertitel
+### Examples to demonstrate how to analyze musical taste with the Spotify API
 
 <!---
 optional folgendermassen Bild einfügen:
@@ -8,16 +8,14 @@ optional folgendermassen Bild einfügen:
 Source: [Gage Skidmore](https://www.flickr.com/photos/gageskidmore/32758233090)>)
 --->
 
-Short Description: Examples to demonstrate how to analyze musical taste with the Spotify API
-
 
 
 #### 
-**Datenquelle(n)**: Quelle des Datensatzes: BLW
+**Data Source**: Spotify
 
-**Artikel**: [The online Tool will be published here](https://www.tagesanzeiger.ch/)
+**Article**: [The online Tool will be published here](https://www.tagesanzeiger.ch/)
 
-## bei grösseren Projekten: Inhaltsverzeichnis
+## Table of Contents
 
 1. Introduction / Available Data
 2. Spotify API / Spotipy
