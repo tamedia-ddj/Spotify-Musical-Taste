@@ -7,21 +7,20 @@ optional folgendermassen Bild einfügen:
 ![Trump Hate](dt.png)
 Source: [Gage Skidmore](https://www.flickr.com/photos/gageskidmore/32758233090)>)
 --->
-
-
-
-#### 
+ 
 **Data Source**: Spotify
 
-**Article**: [The online Tool will be published here](https://www.tagesanzeiger.ch/)
+**Article**: [The online Tool will be published here](https://www.tagesanzeiger.ch/)  
 
-## Table of Contents
+- [Spotify-Musical-Taste](#spotify-musical-taste)
+  * [Introduction](#introduction)
+  * [Spotify API / Spotipy](#spotify-api---spotipy)
+  * [Input Files](#input-files)
+    + [gen_.csv](#gen-csv)
+  * [Output Files](#output-files)
+  * [License](#license)
 
-1. Introduction / Available Data
-2. Spotify API / Spotipy
-3. Getting the User top 100 Songs
-4. Analysis
-
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## Introduction
 What is the musical taste of the different generations living in Switzerland? To answer this question, the Tamedia Datajournalism Team looked at data from Spotify and built the [Musical-Taste Analysis Tool available here](https://www.tagesanzeiger.ch/).  
