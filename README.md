@@ -12,15 +12,14 @@ Source: [Gage Skidmore](https://www.flickr.com/photos/gageskidmore/32758233090)>
 
 **Article**: [The online Tool will be published here](https://www.tagesanzeiger.ch/)  
 
-- [Spotify-Musical-Taste](#spotify-musical-taste)
+
+## Table of content
   * [Introduction](#introduction)
   * [Spotify API / Spotipy](#spotify-api---spotipy)
   * [Input Files](#input-files)
-    + [gen_.csv](#gen-csv)
   * [Output Files](#output-files)
   * [License](#license)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## Introduction
 What is the musical taste of the different generations living in Switzerland? To answer this question, the Tamedia Datajournalism Team looked at data from Spotify and built the [Musical-Taste Analysis Tool available here](https://www.tagesanzeiger.ch/).  
