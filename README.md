@@ -10,7 +10,7 @@ Source: [Gage Skidmore](https://www.flickr.com/photos/gageskidmore/32758233090)>
  
 **Data Source**: Spotify
 
-**Article**: [The online Tool will be published here](https://www.tagesanzeiger.ch/)  
+**Article**: [The online Tool is published here](https://interaktiv.tagesanzeiger.ch/2019/spotify-musik-generationen/)  
 
 
 ## Table of Content
